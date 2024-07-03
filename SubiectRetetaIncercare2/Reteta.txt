@@ -1,0 +1,5 @@
+1,Simionescu Alexandru,Gheorghe Mihai,da,4,5
+2,Dinita Cosmina,Gheorghe Mihai,nu,2,10
+3,Heghiu Alex,Trascau Bogdan,da,5,9
+4,Ion Mihai,Trascau Bogdan,nu,4,8
+5,Ghiur Dan,Neacsu David,da,9,10
